@@ -1,0 +1,22 @@
+body{
+    font-family: 'Exo 2', sans-serif;
+}
+
+.row > .sidebar {
+    margin-top: 40px;
+}
+ul li{
+    list-style: none;
+}
+
+.firstbox > li {
+    padding-top: 15px;
+    padding-bottom: 25px;
+}
+
+.firstbox > li a{
+    color: black;
+}
+.main{
+    margin-top: 40px;
+}
